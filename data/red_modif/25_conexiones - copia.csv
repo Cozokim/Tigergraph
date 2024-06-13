@@ -1,0 +1,33 @@
+CODE_Origin,CODE_Destination,Capacidad,Coste
+Madrid,Zaragoza,60,7
+Madrid,Valencia,110,9
+Madrid,Seville,100,11
+Madrid,Bilbao,90,8
+Barcelona,Zaragoza,50,6
+Barcelona,Valencia,55,7
+Valencia,Murcia,45,6
+Seville,Malaga,120,8
+Seville,Cordoba,60,7
+Zaragoza,Bilbao,80,9
+Zaragoza,Valladolid,70,8
+Malaga,Murcia,65,7
+Murcia,Alicante,40,6
+Palma,Barcelona,70,12
+Las Palmas de Gran Canaria,Santa Cruz de Tenerife,95,11
+Bilbao,Santander,30,5
+Bilbao,Vitoria-Gasteiz,50,7
+Alicante,Elche,35,5
+Cordoba,Granada,55,6
+Valladolid,Gijon,85,10
+Valladolid,Oviedo,75,8
+Vigo,La Coruna,95,11
+Gijon,Oviedo,40,5
+Hospitalet de Llobregat,Barcelona,25,4
+La Coruna,Vigo,50,6
+Elche,Cartagena,35,5
+Oviedo,Gijon,40,5
+Santa Cruz de Tenerife,Las Palmas de Gran Canaria,95,11
+Badalona,Barcelona,20,3
+Terrassa,Barcelona,25,4
+Oviedo,La Coruna,40,5
+Las Palmas de Gran Canaria,Seville,110,40
