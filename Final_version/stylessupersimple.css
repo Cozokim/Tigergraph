@@ -1,0 +1,227 @@
+.dropdown{
+    background: #ffffff10 !important;
+} 
+
+.slider{
+    background: #ffffff10 !important;
+} 
+
+.dataframe{
+    background: #ffffff10 !important;
+} 
+
+.dropdown-arrow.svelte-p5edak {
+    fill:white;
+}
+
+.block.svelte-mppz8v{
+    background: #ffffff10;
+}
+
+label.selected.svelte-1p9xokt.svelte-1p9xokt.svelte-1p9xokt {
+    background: #002a3a
+}
+
+.tr-body.svelte-13hsdno.svelte-13hsdno.svelte-13hsdno {
+    background: transparent
+}
+
+.textbox{
+    background: transparent !important;
+}
+
+.plot{
+    background: #ffffff10 !important;
+}
+
+.radio{
+    background: transparent !important;
+}
+
+.gradio-container-3-29-0{
+    background:transparent !important;
+}
+
+.gradio-container-3-29-0 .prose * {
+    color:white !important;
+}
+.svelte-1pie7s6{
+    background:transparent !important;
+}
+
+button.svelte-1g805jl{
+    color:white !important;
+}
+
+span.svelte-1gfkn6j {
+    color:white !important;
+}
+
+button.svelte-kqij2n {
+    padding: var(--size-1) var(--size-10) !important;
+}
+
+input.svelte-1p9xokt.svelte-1p9xokt.svelte-1p9xokt:checked{
+    border-color: #00b1e2;
+    background-color: #00b1e2;
+}
+
+input[type=text].svelte-1pie7s6 {
+    color:white;
+    border-color: #ffffff10
+}
+
+textarea.svelte-1pie7s6:disabled {
+    -webkit-text-fill-color:white !important;
+}
+
+textarea.svelte-1pie7s6 {
+    color:white;
+    border-color: #ffffff10;
+}
+
+input[type=range].svelte-1cl284s {
+    accent-color:#00b1e2;
+}
+footer{
+    display: inline-block !important;
+    overflow: hidden !important;
+    text-indent: -9999px !important;
+    width: 0px !important;
+    margin: auto !important;
+    padding-bottom: 10px !important;
+}
+.selected.svelte-1g805jl {
+    background:#ffffff10;
+}
+
+label.svelte-1p9xokt.svelte-1p9xokt.svelte-1p9xokt {
+    background: #ffffff10;
+    color: white;
+    border-color: #ffffff10;
+}
+
+label.selected.svelte-1p9xokt.svelte-1p9xokt.svelte-1p9xokt {
+    color: white;
+    background:#002a3a;
+    border-color: #ffffff10;
+}
+
+input.svelte-1g4zxts.svelte-1g4zxts.svelte-1g4zxts:disabled {
+    -webkit-text-fill-color: white;
+}
+
+input[type=number].svelte-1cl284s {
+    color:white !important;
+}
+
+input.svelte-1cl284s:disabled {
+    -webkit-text-fill-color:white;
+    border:#ffffff10;
+}
+
+input[type=number].svelte-og1zwl {
+    color:white;
+    border-color:#ffffff10;
+}
+
+.block.svelte-mppz8v {
+    border-color: #ffffff10;
+}
+
+input.svelte-1g4zxts.svelte-1g4zxts.svelte-1g4zxts {
+    color: white !important;
+}
+
+input.svelte-og1zwl:disabled {
+    -webkit-text-fill-color:white !important;
+}
+
+body{
+    --body-background-fill: linear-gradient(102deg, #002a3a 0%, #00b1e2 240.52%) !important;
+    --background-fill-primary:linear-gradient(102deg, #002a3a 0%, #00b1e2 240.52%) !important;
+    --border-color-primary: #ffffff10 !important;
+    --input-background-fill: #ffffff10 !important;
+}
+
+footer::after {
+    content: "Ante cualquier error o incidencia, por favor envia un ticket a support@lisdatasolutions.com" !important;
+    text-indent: 9750px !important;
+    position: absolute !important;
+}
+
+/*Como footer es un elemento que ya existe en gradio, no hace falta ponerle . delante*/
+
+.button {
+    background: linear-gradient(98.76deg, #00B1E2 1.99%, #00B1E2 21.31%, #33CCDD 56.55%) !important;
+    color:white !important;
+    border: #4b5563 !important;
+    width: 30% !important;
+    align-self: center !important;
+    
+}
+
+.otherbutton {
+    background: linear-gradient(98.76deg, #00B1E2 1.99%, #00B1E2 21.31%, #33CCDD 56.55%) !important;
+    color:white !important;
+    border: #4b5563 !important;
+    
+}
+
+.button2 {
+    background: linear-gradient(98.76deg, #00B1E2 1.99%, #00B1E2 21.31%, #33CCDD 56.55%) !important;
+    color:white !important;
+    border: #4b5563 !important;
+    width: 300px !important;
+    align-self: center !important;
+    padding: 50px !important;
+}
+
+.button3 {
+    background: linear-gradient(98.76deg, #00B1E2 1.99%, #00B1E2 21.31%, #33CCDD 56.55%) !important;
+    color:white !important;
+    border: #4b5563 !important;
+    width: 300px !important;
+    align-self: left !important;
+}
+
+.button4 {
+    background: linear-gradient(98.76deg, #00B1E2 1.99%, #00B1E2 21.31%, #33CCDD 56.55%) !important;
+    color:white !important;
+    border: #4b5563 !important;
+    width: 50% !important;
+}
+
+.trybutton {
+    background: linear-gradient(98.76deg, #066c14 1.99%, #04bf52 21.31%, #69bf04 56.55%) !important;
+    color:white !important;
+    border: #4b5563 !important;
+    width: 50% !important;
+}
+
+.tryrow {
+    width: 300px !important;
+    align-self: center !important;
+}
+
+/*hace falta el .delante porque es un elemento que hemos creado en la hoja de estilos y al que llamaremos desde elem_classes en el .py"*/
+.cabecero {
+    text-align: center !important;
+
+}
+
+
+.source_vertex {
+    margin-bottom: 20px;
+}
+
+
+/* .message.user {
+    border-color: #00B1E2 !important;
+    background: #00B1E210 !important;
+}
+
+.message.bot {
+    border-color: #00B1E2 !important;
+    background: #00B1E2c33 !important;
+}       ESTOS SOLO SE USAN SI HAY UN CHATBOT*/
