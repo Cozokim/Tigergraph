@@ -1,33 +1,33 @@
-CODE_Origin,CODE_Destination,Capacidad,Coste
-Madrid,Zaragoza,60,7
-Madrid,Valencia,110,9
-Madrid,Seville,100,11
-Madrid,Bilbao,90,8
-Barcelona,Zaragoza,50,6
-Barcelona,Valencia,55,7
-Valencia,Murcia,45,6
-Seville,Malaga,120,8
-Seville,Cordoba,60,7
-Zaragoza,Bilbao,80,9
-Zaragoza,Valladolid,70,8
-Malaga,Murcia,65,7
-Murcia,Alicante,40,6
-Palma,Barcelona,70,12
-Las Palmas de Gran Canaria,Santa Cruz de Tenerife,95,11
-Bilbao,Santander,30,5
-Bilbao,Vitoria-Gasteiz,50,7
-Alicante,Elche,35,5
-Cordoba,Granada,55,6
-Valladolid,Gijon,85,10
-Valladolid,Oviedo,75,8
-Vigo,La Coruna,95,11
-Gijon,Oviedo,40,5
-Hospitalet de Llobregat,Barcelona,25,4
-La Coruna,Vigo,50,6
-Elche,Cartagena,35,5
-Oviedo,Gijon,40,5
-Santa Cruz de Tenerife,Las Palmas de Gran Canaria,95,11
-Badalona,Barcelona,20,3
-Terrassa,Barcelona,25,4
-Oviedo,La Coruna,40,5
-Las Palmas de Gran Canaria,Seville,110,40
+CODE_Origin,CODE_Destination,Capacidad,Coste,Carga
+Madrid,Zaragoza,60,7,Subcargado
+Madrid,Valencia,110,9,Subcargado
+Madrid,Seville,100,11,Subcargado
+Madrid,Bilbao,90,8,Subcargado
+Barcelona,Zaragoza,50,6,Subcargado
+Barcelona,Valencia,55,7,Subcargado
+Valencia,Murcia,45,6,Subcargado
+Seville,Malaga,120,8,Subcargado
+Seville,Cordoba,60,7,Subcargado
+Zaragoza,Bilbao,80,9,Subcargado
+Zaragoza,Valladolid,70,8,Subcargado
+Malaga,Murcia,65,7,Subcargado
+Murcia,Alicante,40,6,Subcargado
+Palma,Barcelona,70,12,Subcargado
+Las Palmas de Gran Canaria,Santa Cruz de Tenerife,95,11,Subcargado
+Bilbao,Santander,30,5,Subcargado
+Bilbao,Vitoria-Gasteiz,50,7,Subcargado
+Alicante,Elche,35,5,Subcargado
+Cordoba,Granada,55,6,Subcargado
+Valladolid,Gijon,85,10,Subcargado
+Valladolid,Oviedo,75,8,Subcargado
+Vigo,La Coruna,95,11,Subcargado
+Gijon,Oviedo,40,5,Subcargado
+Hospitalet de Llobregat,Barcelona,25,4,Subcargado
+La Coruna,Vigo,50,6,Subcargado
+Elche,Cartagena,35,5,Subcargado
+Oviedo,Gijon,40,5,Subcargado
+Santa Cruz de Tenerife,Las Palmas de Gran Canaria,95,11,Subcargado
+Badalona,Barcelona,20,3,Subcargado
+Terrassa,Barcelona,25,4,Subcargado
+Oviedo,La Coruna,40,5,Subcargado
+Las Palmas de Gran Canaria,Seville,110,40,Subcargado

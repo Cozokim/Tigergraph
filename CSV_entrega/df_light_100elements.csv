@@ -1,101 +1,101 @@
 ID,CODE_Origin,CODE_Destination,Palets
-1,Las Palmas de Gran Canaria,Madrid,6
-2,Cordoba,Elche,9
-3,Barcelona,Malaga,5
-4,Valladolid,Alicante,4
-5,Terrassa,Hospitalet de Llobregat,6
-6,Elche,Malaga,5
-7,Valladolid,Murcia,2
-8,Gijon,Palma,4
-9,Malaga,La Coruna,2
-10,Bilbao,Murcia,4
-11,Vigo,Las Palmas de Gran Canaria,9
-12,Vigo,Elche,10
-13,Cartagena,Hospitalet de Llobregat,2
-14,Badalona,Gijon,5
-15,Vitoria-Gasteiz,Valencia,4
-16,Vitoria-Gasteiz,Valencia,10
-17,Zaragoza,Granada,2
-18,Malaga,Vigo,10
+1,Las Palmas de Gran Canaria,Madrid,1
+2,Cordoba,Elche,1
+3,Barcelona,Malaga,1
+4,Valladolid,Alicante,1
+5,Terrassa,Hospitalet de Llobregat,1
+6,Elche,Malaga,1
+7,Valladolid,Murcia,1
+8,Gijon,Palma,1
+9,Malaga,La Coruna,1
+10,Bilbao,Murcia,1
+11,Vigo,Las Palmas de Gran Canaria,1
+12,Vigo,Elche,1
+13,Cartagena,Hospitalet de Llobregat,1
+14,Badalona,Gijon,1
+15,Vitoria-Gasteiz,Valencia,1
+16,Vitoria-Gasteiz,Valencia,1
+17,Zaragoza,Granada,1
+18,Malaga,Vigo,1
 19,Valladolid,Badalona,1
-20,Terrassa,Malaga,6
-21,Vigo,La Coruna,5
-22,Palma,Vigo,5
-23,Vitoria-Gasteiz,Alicante,3
-24,Madrid,Gijon,8
-25,Palma,Seville,7
-26,La Coruna,Zaragoza,9
-27,Valladolid,Seville,7
-28,Zaragoza,Santa Cruz de Tenerife,5
-29,Madrid,Elche,4
-30,Las Palmas de Gran Canaria,Hospitalet de Llobregat,5
-31,Zaragoza,Hospitalet de Llobregat,5
-32,Vitoria-Gasteiz,Elche,4
-33,Barcelona,Granada,2
-34,Murcia,Badalona,7
-35,Valencia,Madrid,7
-36,Granada,La Coruna,9
+20,Terrassa,Malaga,1
+21,Vigo,La Coruna,1
+22,Palma,Vigo,1
+23,Vitoria-Gasteiz,Alicante,1
+24,Madrid,Gijon,1
+25,Palma,Seville,1
+26,La Coruna,Zaragoza,1
+27,Valladolid,Seville,1
+28,Zaragoza,Santa Cruz de Tenerife,1
+29,Madrid,Elche,1
+30,Las Palmas de Gran Canaria,Hospitalet de Llobregat,1
+31,Zaragoza,Hospitalet de Llobregat,1
+32,Vitoria-Gasteiz,Elche,1
+33,Barcelona,Granada,1
+34,Murcia,Badalona,1
+35,Valencia,Madrid,1
+36,Granada,La Coruna,1
 37,La Coruna,Bilbao,1
-38,Santa Cruz de Tenerife,Murcia,7
-39,Barcelona,Murcia,5
-40,Terrassa,Seville,8
-41,Terrassa,Seville,6
-42,Malaga,Badalona,10
-43,Barcelona,Zaragoza,6
-44,Valladolid,Palma,4
-45,Hospitalet de Llobregat,Madrid,6
-46,Palma,Valencia,3
-47,Cartagena,Bilbao,2
-48,Badalona,Terrassa,4
-49,Barcelona,Gijon,5
-50,Las Palmas de Gran Canaria,Santa Cruz de Tenerife,3
+38,Santa Cruz de Tenerife,Murcia,1
+39,Barcelona,Murcia,1
+40,Seville,Vigo,15
+41,Terrassa,Seville,1
+42,Malaga,Badalona,1
+43,Barcelona,Zaragoza,1
+44,Valladolid,Palma,1
+45,Hospitalet de Llobregat,Madrid,1
+46,Palma,Valencia,1
+47,Cartagena,Bilbao,1
+48,Badalona,Terrassa,1
+49,Barcelona,Gijon,1
+50,Las Palmas de Gran Canaria,Santa Cruz de Tenerife,1
 51,Valencia,Hospitalet de Llobregat,1
-52,Elche,Cordoba,5
-53,Valencia,Cordoba,6
-54,Terrassa,Cartagena,8
-55,Santa Cruz de Tenerife,Cartagena,9
+52,Elche,Cordoba,1
+53,Valencia,Cordoba,1
+54,Terrassa,Cartagena,1
+55,Santa Cruz de Tenerife,Cartagena,1
 56,Hospitalet de Llobregat,Oviedo,1
 57,Murcia,Seville,1
-58,Santa Cruz de Tenerife,Palma,6
+58,Santa Cruz de Tenerife,Palma,1
 59,Elche,Alicante,1
-60,Zaragoza,Murcia,6
-61,Valencia,Santa Cruz de Tenerife,2
-62,Palma,Madrid,7
-63,La Coruna,Murcia,2
-64,Cordoba,Madrid,10
-65,Badalona,Murcia,2
-66,Murcia,Badalona,6
-67,Hospitalet de Llobregat,Seville,6
-68,Cartagena,La Coruna,8
-69,Badalona,Gijon,2
-70,Gijon,Zaragoza,6
-71,Elche,La Coruna,9
-72,Zaragoza,Oviedo,8
-73,Cartagena,Santa Cruz de Tenerife,4
-74,Alicante,Barcelona,8
+60,Zaragoza,Murcia,1
+61,Valencia,Santa Cruz de Tenerife,1
+62,Palma,Madrid,1
+63,La Coruna,Murcia,1
+64,Cordoba,Madrid,1
+65,Badalona,Murcia,1
+66,Murcia,Badalona,1
+67,Hospitalet de Llobregat,Seville,1
+68,Cartagena,La Coruna,1
+69,Badalona,Gijon,1
+70,Gijon,Zaragoza,1
+71,Elche,La Coruna,1
+72,Zaragoza,Oviedo,1
+73,Cartagena,Santa Cruz de Tenerife,1
+74,Alicante,Barcelona,1
 75,Murcia,Granada,1
-76,Granada,Hospitalet de Llobregat,7
-77,Elche,Oviedo,2
-78,Granada,Gijon,3
-79,Valladolid,Barcelona,8
-80,Gijon,Valencia,8
-81,Santa Cruz de Tenerife,Elche,4
+76,Granada,Hospitalet de Llobregat,1
+77,Elche,Oviedo,1
+78,Granada,Gijon,1
+79,Valladolid,Barcelona,1
+80,Gijon,Valencia,1
+81,Santa Cruz de Tenerife,Elche,1
 82,Madrid,Granada,1
-83,Zaragoza,Oviedo,5
-84,Vigo,Alicante,6
-85,Elche,Terrassa,4
-86,Zaragoza,Santa Cruz de Tenerife,3
-87,Madrid,Valencia,6
-88,La Coruna,Bilbao,4
-89,Oviedo,Seville,10
-90,Gijon,La Coruna,3
-91,Badalona,Valladolid,2
-92,Palma,Valencia,10
-93,Santa Cruz de Tenerife,Bilbao,2
-94,Oviedo,Santa Cruz de Tenerife,10
-95,Alicante,Madrid,7
-96,Bilbao,Hospitalet de Llobregat,7
-97,Malaga,Elche,8
-98,Las Palmas de Gran Canaria,Vigo,3
-99,Zaragoza,Valladolid,10
-100,Cartagena,Badalona,10
+83,Zaragoza,Oviedo,1
+84,Vigo,Alicante,1
+85,Elche,Terrassa,1
+86,Zaragoza,Santa Cruz de Tenerife,1
+87,Madrid,Valencia,1
+88,La Coruna,Bilbao,1
+89,Oviedo,Seville,1
+90,Gijon,La Coruna,1
+91,Badalona,Valladolid,1
+92,Palma,Valencia,1
+93,Santa Cruz de Tenerife,Bilbao,1
+94,Oviedo,Santa Cruz de Tenerife,1
+95,Alicante,Madrid,1
+96,Bilbao,Hospitalet de Llobregat,1
+97,Malaga,Elche,1
+98,Las Palmas de Gran Canaria,Vigo,1
+99,Zaragoza,Valladolid,1
+100,Cartagena,Badalona,1
