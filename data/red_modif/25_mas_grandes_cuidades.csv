@@ -4,7 +4,7 @@ CODE,City,Stock,Capacity,LoadCapacity,UnloadCapacity,latitude,longitude,Carga
 3,Valencia,14.3,16.8,19.1,12.1,39.4699,-0.3763,Optimal
 4,Seville,142.7,147.7,18.2,14.9,37.3886,-5.9823,Optimal
 5,Zaragoza,60.0,69.7,17.6,12.8,41.6488,-0.8891,Optimal
-6,Malaga,17.6,19.3,17.0,16.9,36.7213,-4.4215,Optimal
+6,Malaga,12.6,19.3,17.0,16.9,36.7213,-4.4215,Optimal
 7,Murcia,48.1,52.6,13.8,13.9,37.9922,-1.1307,Optimal
 8,Palma,10.3,13.7,13.0,12.9,39.5696,2.6502,Optimal
 9,Las Palmas de Gran Canaria,98.3,106.7,19.6,19.9,28.1235,-15.4363,Optimal

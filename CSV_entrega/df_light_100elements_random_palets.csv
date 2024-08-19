@@ -1,0 +1,101 @@
+ID,CODE_Origin,CODE_Destination,Palets
+1,Las Palmas de Gran Canaria,Madrid,6
+2,Cordoba,Elche,7
+3,Barcelona,Malaga,5
+4,Valladolid,Alicante,6
+5,Terrassa,Hospitalet de Llobregat,6
+6,Elche,Malaga,8
+7,Valladolid,Murcia,1
+8,Gijon,Palma,4
+9,Malaga,La Coruna,9
+10,Bilbao,Murcia,5
+11,Vigo,Las Palmas de Gran Canaria,1
+12,Vigo,Elche,7
+13,Cartagena,Hospitalet de Llobregat,2
+14,Badalona,Gijon,1
+15,Vitoria-Gasteiz,Valencia,4
+16,Vitoria-Gasteiz,Valencia,9
+17,Zaragoza,Granada,5
+18,Malaga,Vigo,9
+19,Valladolid,Badalona,2
+20,Terrassa,Malaga,5
+21,Vigo,La Coruna,6
+22,Palma,Vigo,1
+23,Vitoria-Gasteiz,Alicante,7
+24,Madrid,Gijon,3
+25,Palma,Seville,3
+26,La Coruna,Zaragoza,4
+27,Valladolid,Seville,5
+28,Zaragoza,Santa Cruz de Tenerife,1
+29,Madrid,Elche,6
+30,Las Palmas de Gran Canaria,Hospitalet de Llobregat,7
+31,Zaragoza,Hospitalet de Llobregat,1
+32,Vitoria-Gasteiz,Elche,8
+33,Barcelona,Granada,9
+34,Murcia,Badalona,7
+35,Valencia,Madrid,9
+36,Granada,La Coruna,4
+37,La Coruna,Bilbao,7
+38,Santa Cruz de Tenerife,Murcia,1
+39,Barcelona,Murcia,10
+40,Seville,Vigo,15
+41,Terrassa,Seville,5
+42,Malaga,Badalona,1
+43,Barcelona,Zaragoza,2
+44,Valladolid,Palma,4
+45,Hospitalet de Llobregat,Madrid,3
+46,Palma,Valencia,10
+47,Cartagena,Bilbao,7
+48,Badalona,Terrassa,2
+49,Barcelona,Gijon,1
+50,Las Palmas de Gran Canaria,Santa Cruz de Tenerife,10
+51,Valencia,Hospitalet de Llobregat,3
+52,Elche,Cordoba,1
+53,Valencia,Cordoba,8
+54,Terrassa,Cartagena,2
+55,Santa Cruz de Tenerife,Cartagena,5
+56,Hospitalet de Llobregat,Oviedo,7
+57,Murcia,Seville,9
+58,Santa Cruz de Tenerife,Palma,2
+59,Elche,Alicante,10
+60,Zaragoza,Murcia,6
+61,Valencia,Santa Cruz de Tenerife,10
+62,Palma,Madrid,7
+63,La Coruna,Murcia,2
+64,Cordoba,Madrid,4
+65,Badalona,Murcia,8
+66,Murcia,Badalona,6
+67,Hospitalet de Llobregat,Seville,10
+68,Cartagena,La Coruna,3
+69,Badalona,Gijon,8
+70,Gijon,Zaragoza,9
+71,Elche,La Coruna,3
+72,Zaragoza,Oviedo,1
+73,Cartagena,Santa Cruz de Tenerife,2
+74,Alicante,Barcelona,4
+75,Murcia,Granada,7
+76,Granada,Hospitalet de Llobregat,1
+77,Elche,Oviedo,5
+78,Granada,Gijon,8
+79,Valladolid,Barcelona,6
+80,Gijon,Valencia,3
+81,Santa Cruz de Tenerife,Elche,6
+82,Madrid,Granada,4
+83,Zaragoza,Oviedo,7
+84,Vigo,Alicante,10
+85,Elche,Terrassa,2
+86,Zaragoza,Santa Cruz de Tenerife,6
+87,Madrid,Valencia,7
+88,La Coruna,Bilbao,5
+89,Oviedo,Seville,9
+90,Gijon,La Coruna,3
+91,Badalona,Valladolid,4
+92,Palma,Valencia,1
+93,Santa Cruz de Tenerife,Bilbao,2
+94,Oviedo,Santa Cruz de Tenerife,9
+95,Alicante,Madrid,1
+96,Bilbao,Hospitalet de Llobregat,10
+97,Malaga,Elche,5
+98,Las Palmas de Gran Canaria,Vigo,6
+99,Zaragoza,Valladolid,8
+100,Cartagena,Badalona,7
