@@ -1,6 +1,6 @@
 CODE_Origin,CODE_Destination,Coste,Carga,Capacidad,daily_movement
-Madrid,Barcelona,10,Sobrecargado,120,0
-Madrid,Valencia,9,Subcargado,110,0
+Madrid,Barcelona,10,Optimal,120,0
+Madrid,Valencia,9,Optimal,110,0
 Madrid,Seville,11,Optimal,100,0
 Madrid,Bilbao,8,Optimal,90,0
 Madrid,Zaragoza,7,Optimal,80,0

@@ -1,0 +1,26 @@
+TABLE NAME,COLUMN NAME,COLUMN NAME.1,COLUMN NAME.2,COLUMN NAME.3,COLUMN NAME.4,COLUMN NAME.5,Unnamed: 7
+journey,id,,,,,,
+"INSERT INTO journey (route_id, location_id, segment_position, transport_type, distance_km) VALUES",0,route_id,location_id,segment_position,transport_type,distance_km,
+"(250, 85, 0, NULL, NULL),",1,250,85,0,,0,ingolstad
+"(250, 122, 1, NULL, NULL),",2,250,122,1,LKM,400,wolfburg
+"(250, 61, 2, NULL, NULL),",3,250,61,2,LKM,500,Emben (puerto norte Alemania)
+"(250, 153, 3, NULL, NULL),",4,250,153,3,SHIP,1000,Santander
+"(248, 85, 0, NULL, NULL),",5,248,85,0,,0,ingolstad
+"(248, 122, 1, NULL, NULL),",6,248,122,1,LKM,400,wolfburg
+"(248, 61, 2, NULL, NULL),",7,248,61,2,LKM,500,Emben (puerto norte Alemania)
+"(248, 153, 3, NULL, NULL),",8,248,153,3,SHIP,1000,Santander
+"(248, 366, 4, NULL, NULL),",9,248,366,4,LKM,500,Madrid
+"(248, 148, 5, NULL, NULL),",10,248,148,5,LKM,500,Barcelona
+"(249, 85, 0, NULL, NULL),",11,249,85,0,,0,ingolstad
+"(249, 122, 1, NULL, NULL),",12,249,122,1,LKM,400,wolfburg
+"(249, 61, 2, NULL, NULL),",13,249,61,2,LKM,500,Emben (puerto norte Alemania)
+"(249, 153, 3, NULL, NULL),",14,249,153,3,SHIP,1000,Santander
+"(249, 366, 4, NULL, NULL),",15,249,366,4,LKM,500,Madrid
+"(158, 61, 0, NULL, NULL),",16,158,61,0,,0,Emben (puerto norte Alemania)
+"(158, 229, 1, NULL, NULL),",17,158,229,1,SHIP,10000,Baltimore
+"(158, 431, 2, NULL, NULL),",18,158,431,2,LKM,1000,Davisville
+"(158, 230, 3, NULL, NULL),",19,158,230,3,LKM,1000,Davisville
+"(252, 85, 0, NULL, NULL),",20,252,85,0,,0,ingolstad
+"(252, 98, 1, NULL, NULL),",21,252,98,1,LKM,200,Alemania
+"(252, 200, 2, NULL, NULL),",22,252,200,2,LKM,250,Francia Frontera
+"(252, 156, 3, NULL, NULL),",23,252,156,3,LKM,500,

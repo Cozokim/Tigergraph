@@ -1,0 +1,19 @@
+CODE_Origin,CODE_Destination,Capacidad,Coste
+Madrid,Seville,35,100.01
+Seville,Murcie,100,100.01
+Seville,Palma,94,100.01
+Seville,Las Palmas de Gran Canaria,68,100.01
+Seville,Bilbao,79,100.01
+Malaga,Murcie,80,100.01
+Murcie,Las Palmas de Gran Canaria,77,100.01
+Murcie,Bilbao,47,100.01
+Palma,Madrid,83,100.01
+Palma,Seville,73,100.01
+Bilbao,Malaga,14,100.01
+Bilbao,Murcie,31,100.01
+Bilbao,Palma,54,100.01
+Bilbao,Las Palmas de Gran Canaria,88,100.01
+Bilbao,Santander,16,101.64
+Santander,Palma,45,100.01
+Santander,Las Palmas de Gran Canaria,67,100.01
+Santander,Bilbao,73,100.01

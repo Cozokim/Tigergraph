@@ -1,9 +1,0 @@
-,CODE,Stock,Capacity,LoadCapacity,UnloadCapacity,Capacity_Flag,Stock_Flag,latitude,longitude
-1,Madrid,106.0,117.0,500.0,15.0,H,H,40.4168,-3.7038
-4,Seville,34.0,38.0,500.0,13.0,H,H,37.3886,-5.9823
-6,Malaga,58.0,64.0,500.0,8.0,H,H,36.7213,-4.4215
-7,Murcie,9.0,10.0,500.0,5.0,H,H,37.9922,-1.1307
-8,Palma,4.0,5.0,500.0,1.0,H,H,39.5696,2.6502
-9,Las Palmas de Gran Canaria,32.0,36.0,500.0,4.0,H,H,28.1235,-15.4363
-10,Bilbao,15.0,17.0,500.0,4.0,H,H,43.263,-2.934
-11,Santander,0.0,0.0,500.0,0.0,H,H,43.4623,-3.80998

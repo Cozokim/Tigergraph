@@ -1,0 +1,565 @@
+,City_Origin,City_Destination
+0,BrÃ¼ssel - Werk,Bremerhaven - BLG
+1,BrÃ¼ssel - Werk,Calden - DP Trading
+2,BrÃ¼ssel - Werk,Cuxhaven - Cuxport
+3,BrÃ¼ssel - Werk,Darmstadt - R+H
+4,BrÃ¼ssel - Werk,Emden - Außenhafen
+5,BrÃ¼ssel - Werk,Essen - Helf
+6,BrÃ¼ssel - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+7,BrÃ¼ssel - Werk,Faulbach - Roos
+8,BrÃ¼ssel - Werk,Glauchau - SAT (Mosolf)
+9,BrÃ¼ssel - Werk,Hamburg - BLG
+10,BrÃ¼ssel - Werk,Hamburg - Unikai
+11,BrÃ¼ssel - Werk,Illingen - Mosolf
+12,BrÃ¼ssel - Werk,Probfeld (Karlskron) - ATP
+13,BrÃ¼ssel - Werk,Kippenheim - Mosolf
+14,BrÃ¼ssel - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+15,BrÃ¼ssel - Werk,Neuseddin - CAT
+16,BrÃ¼ssel - Werk,Neuss - Autoterminal Neuss
+17,BrÃ¼ssel - Werk,Nürnberg - Altmann
+18,BrÃ¼ssel - Werk,Osnabrück - CAT
+19,BrÃ¼ssel - Werk,Wolnzach - Altmann
+20,Kvasiny - Werk,Biebesheim - Frankenbach
+21,Kvasiny - Werk,Bremerhaven - BLG
+22,Kvasiny - Werk,Duisburg - BLG
+23,Kvasiny - Werk,Emden - Außenhafen
+24,Kvasiny - Werk,Emden - Binnenhafen
+25,Kvasiny - Werk,Furth im Wald
+26,Kvasiny - Werk,Glauchau - SAT (Mosolf)
+27,Kvasiny - Werk,Gößnitz - SAT (Mosolf)
+28,Kvasiny - Werk,Hamburg - BLG
+29,Kvasiny - Werk,Hamburg - Unikai
+30,Kvasiny - Werk,Illingen - Mosolf
+31,Kvasiny - Werk,Kippenheim - Mosolf
+32,Kvasiny - Werk,Lübeck - LHG Seelandkai
+33,Kvasiny - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+34,Kvasiny - Werk,Neuseddin - CAT
+35,Kvasiny - Werk,Neuss - Autoterminal Neuss
+36,Kvasiny - Werk,Nürnberg - Altmann
+37,Kvasiny - Werk,Dodendorf (Sülzetal) - BLG
+38,Kvasiny - Werk,Wolnzach - Altmann
+39,Mlada Boleslav - Werk,Biebesheim - Frankenbach
+40,Mlada Boleslav - Werk,Bremerhaven - BLG
+41,Mlada Boleslav - Werk,Duisburg - BLG
+42,Mlada Boleslav - Werk,Emden - Außenhafen
+43,Mlada Boleslav - Werk,Furth im Wald
+44,Mlada Boleslav - Werk,Glauchau - SAT (Mosolf)
+45,Mlada Boleslav - Werk,Gößnitz - SAT (Mosolf)
+46,Mlada Boleslav - Werk,Hamburg - BLG
+47,Mlada Boleslav - Werk,Hamburg - Unikai
+48,Mlada Boleslav - Werk,Illingen - Mosolf
+49,Mlada Boleslav - Werk,Kippenheim - Mosolf
+50,Mlada Boleslav - Werk,Lübeck - LHG Seelandkai
+51,Mlada Boleslav - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+52,Mlada Boleslav - Werk,Neuseddin - CAT
+53,Mlada Boleslav - Werk,Neuss - Autoterminal Neuss
+54,Mlada Boleslav - Werk,Rackwitz - SAT (Mosolf)
+55,Mlada Boleslav - Werk,Dodendorf (Sülzetal) - BLG
+56,Bremerhaven - BLG,JEBEL ALI
+57,Bremerhaven - BLG,"ARGENTINIEN, HAFEN ZARATE"
+58,Bremerhaven - BLG,"AUSTRALIEN, FREMANTLE"
+59,Bremerhaven - BLG,"AUSTRALIEN, BRISBANE"
+60,Bremerhaven - BLG,"AUSTRALIEN, MELBOURNE"
+61,Bremerhaven - BLG,BAHRAIN
+62,Bremerhaven - BLG,"CHINA, SHANGHAI"
+63,Bremerhaven - BLG,"XINSHA, CHINA"
+64,Bremerhaven - BLG,"KAIMANINSELN, GEORGETOWN, HAFE"
+65,Bremerhaven - BLG,"POINT A PITRE, GUADELOUPE"
+66,Bremerhaven - BLG,SANTO TOMAS DE CASTILLA HAFEN
+67,Bremerhaven - BLG,HONGKONG; HONGKONG PORT
+68,Bremerhaven - BLG,Mumbai - Hafen
+69,Bremerhaven - BLG,AQABA
+70,Bremerhaven - BLG,Pyeongtaek - Ro Ro / Car Terminal
+71,Bremerhaven - BLG,KUWAIT
+72,Bremerhaven - BLG,"MARTINIQUE, FORT DE FRANCE"
+73,Bremerhaven - BLG,"MAURITIUS, PORT LOUIS"
+74,Bremerhaven - BLG,"MALAYSIA, PORT KELANG (PORT KL"
+75,Bremerhaven - BLG,NEW CALEDONIA; NOUMEA PORT
+76,Bremerhaven - BLG,NORWEGEN; HAFEN OSLO
+77,Bremerhaven - BLG,NEW ZEALAND; AUCKLAND PORT
+78,Bremerhaven - BLG,SUHAR
+79,Bremerhaven - BLG,"MANZANILLO, PANAMA"
+80,Bremerhaven - BLG,Le Port
+81,Bremerhaven - BLG,"SAUDI-ARABIEN, JEDDAH"
+82,Bremerhaven - BLG,SINGAPORE
+83,Bremerhaven - BLG,"ST. MARTIN (NLD), PHILIPSBURG,"
+84,Cuxhaven - Cuxport,"ESTLAND, PALDISKI LOUNASADAM"
+85,Cuxhaven - BLG,Cuxhaven - Cuxport
+86,Cuxhaven - BLG,HAMLSTADT (PORT)
+87,Cuxhaven - BLG,"TUERKEI, HAFEN EFESAN, DILOVAS"
+88,Dresden - Gläserne Manufaktur,Zwickau - Werk
+89,Duisburg - BLG,Erps-Kwerps (Kortenberg) - D`ieteren
+90,Emden - Werk,Hall in Tirol - GebrÃ¼der Weiss
+91,Emden - Werk,Strasswalchen - Lagermax
+92,Emden - Werk,Wiener Neustadt - HÃ¶dlmayr
+93,Emden - Werk,Erps-Kwerps (Kortenberg) - D`ieteren
+94,Emden - Werk,ZeebrÃ¼gge - WWL
+95,Emden - Werk,Lupfig - AMAG
+96,Emden - Werk,Jenec - HÃ¶dlmayr
+97,Emden - Werk,POOL / RESERVE
+98,Emden - Werk,NAHBEREICH EMDEN
+99,Emden - Werk,Bremerhaven - BLG
+100,Emden - Werk,Calden - DP Trading
+101,Emden - Werk,Cuxhaven - BLG
+102,Emden - Werk,Darmstadt - R+H
+103,Emden - Werk,Emden - Außenhafen
+104,Emden - Werk,Emden - Werk Halle 10
+105,Emden - Werk,Essen - Helf
+106,Emden - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+107,Emden - Werk,Glauchau - SAT (Mosolf)
+108,Emden - Werk,Ginsheim-Gustavsburg - Frankenbach
+109,Emden - Werk,Hamburg - BLG
+110,Emden - Werk,Hamburg - Unikai
+111,Emden - Werk,Probfeld (Karlskron) - ATP
+112,Emden - Werk,Kassel-Waldau - Formel D
+113,Emden - Werk,Kippenheim - Mosolf
+114,Emden - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+115,Emden - Werk,Lehrte (Aligse) - CAT
+116,Emden - Werk,Neuseddin - CAT
+117,Emden - Werk,Neckarsulm - Audi Forum?
+118,Emden - Werk,Neuss - Autoterminal Neuss
+119,Emden - Werk,Nürnberg - Altmann
+120,Emden - Werk,Osnabrück - CAT
+121,Emden - Werk,Rehden - BTR
+122,Emden - Werk,Wolnzach - Altmann
+123,Emden - Werk,Wolfsburg - Werk
+124,Emden - Werk,Ringsted - Dansk Auto Logik
+125,Emden - Werk,Vamdrup - Dansk Auto Logik
+126,Emden - Werk,Tarragona
+127,Emden - Werk,Avrigny - CAT
+128,Emden - Werk,Ambares-et-Lagrave  - GCA
+129,Emden - Werk,Corbas (Lyon) - TEA
+130,Emden - Werk,Forbach - CAT (Egerland France)
+131,Emden - Werk,Lauterbourg - Walon France
+132,Emden - Werk,Villers-Cotterets - CAT
+133,Emden - Werk,BudaÃ¶rs - Lagermax
+134,Emden - Werk,Arena Po - Bertani
+135,Emden - Werk,Piadena - Altmann
+136,Emden - Werk,Verona - Bertani
+137,Emden - Werk,Howald - Losch
+138,Emden - Werk,Leusden - Pon Logistics
+139,Emden - Werk,Rotterdam - Broekman
+140,Emden - Werk,Swarzedz - STS
+141,Emden - Werk,Bratislava - Lagermax
+142,Emden - Werk,Koper - BLG
+143,Emden - Außenhafen,Bremerhaven - BLG
+144,Emden - Außenhafen,Emden - Werk
+145,Emden - Außenhafen,Santander - Berge
+146,Emden - Außenhafen,Grimsby - GBA
+147,Emden - Außenhafen,Sheerness - GBA
+148,Emden - Außenhafen,SAVONA MARITTIMA
+149,Emden - Außenhafen,TOYOHASHI PORT
+150,Emden - Außenhafen,HAFEN VERACRUZ
+151,Emden - Außenhafen,Setubal - Autoeuropa
+152,Emden - Außenhafen,"TUERKEI, HAFEN DERINCE"
+153,Emden - Außenhafen,"TAIWAN, NEW TAIPEI CITY (TAIPE"
+154,Emden - Außenhafen,"USA, BENICIA"
+155,Emden - Außenhafen,"USA, HOUSTON (PORSCHE)"
+156,Emden - Außenhafen,"USA, JACKSONVILLE (PORSCHE)"
+157,Emden - Außenhafen,"USA, DAVISVILLE (PORSCHE)"
+158,Emden - Außenhafen,"USA, SAN DIEGO"
+159,Emden - Außenhafen,"USA, BALTIMORE"
+160,Emden - Binnenhafen,Grimsby - GBA
+161,Emden - Binnenhafen,Sheerness - GBA
+162,Emden - Werk Halle 10,"AUTOVERMIETER AVIS, ETZIN"
+163,Wolfsburg (MLW Fallersleben) - Mosolf,Wolfsburg - Werk
+164,Glauchau - SAT (Mosolf),Dresden - Gläserne Manufaktur
+165,Glauchau - SAT (Mosolf),Nürnberg - Altmann
+166,Glauchau - SAT (Mosolf),Zwickau - Kunden Service Center
+167,Hannover - Werk,Hall in Tirol - GebrÃ¼der Weiss
+168,Hannover - Werk,Strasswalchen - Lagermax
+169,Hannover - Werk,Wiener Neustadt - HÃ¶dlmayr
+170,Hannover - Werk,Erps-Kwerps (Kortenberg) - D`ieteren
+171,Hannover - Werk,ZeebrÃ¼gge - WWL
+172,Hannover - Werk,Lupfig - AMAG
+173,Hannover - Werk,Jenec - HÃ¶dlmayr
+174,Hannover - Werk,Bremerhaven - BLG
+175,Hannover - Werk,Calden - DP Trading
+176,Hannover - Werk,Darmstadt - R+H
+177,Hannover - Werk,Emden - Werk
+178,Hannover - Werk,Emden - Außenhafen
+179,Hannover - Werk,Emden - Binnenhafen
+180,Hannover - Werk,Essen - Helf
+181,Hannover - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+182,Hannover - Werk,Glauchau - SAT (Mosolf)
+183,Hannover - Werk,Ginsheim-Gustavsburg - Frankenbach
+184,Hannover - Werk,Hannover - Schwarze Heide
+185,Hannover - Werk,Hamburg - BLG
+186,Hannover - Werk,Illingen - Mosolf
+187,Hannover - Werk,Kassel-Waldau - Formel D
+188,Hannover - Werk,Kippenheim - Mosolf
+189,Hannover - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+190,Hannover - Werk,Lehrte (Aligse) - CAT
+191,Hannover - Werk,Neuseddin - CAT
+192,Hannover - Werk,Neuss - Autoterminal Neuss
+193,Hannover - Werk,Nürnberg - Altmann
+194,Hannover - Werk,Osnabrück - CAT
+195,Hannover - Werk,Rehden - BTR
+196,Hannover - Werk,Rackwitz - SAT (Mosolf)
+197,Hannover - Werk,Salzgitter - Werk
+198,Hannover - Werk,Wolnzach - Altmann
+199,Hannover - Werk,Ringsted - Dansk Auto Logik
+200,Hannover - Werk,Vamdrup - Dansk Auto Logik
+201,Hannover - Werk,Tarragona
+202,Hannover - Werk,Wavrin - CAT
+203,Hannover - Werk,Lagermax Lagerplatz Luka 
+204,Hannover - Werk,BudaÃ¶rs - Lagermax
+205,Hannover - Werk,Piadena - Altmann
+206,Hannover - Werk,Verona - Bertani
+207,Hannover - Werk,Howald - Losch
+208,Hannover - Werk,Leusden - Pon Logistics
+209,Hannover - Werk,Swarzedz - STS
+210,Hannover - Werk,Curtici - Lagermax
+211,Hannover - Werk,Bratislava - Lagermax
+212,Hannover - Werk,Koper - BLG
+213,Hamburg - Unikai,JEBEL ALI
+214,Hamburg - Unikai,"ARGENTINIEN, HAFEN ZARATE"
+215,Hamburg - Unikai,
+216,Hamburg - Unikai,"BRASILIEN, VITORIA"
+217,Hamburg - Unikai,VITORIA HAFEN
+218,Hamburg - Unikai,TEMA
+219,Hamburg - Unikai,"URUGUAY, HAFEN MONTEVIDEO"
+220,Ingolstadt - Werk,Hall in Tirol - GebrÃ¼der Weiss
+221,Ingolstadt - Werk,Strasswalchen - Lagermax
+222,Ingolstadt - Werk,Wiener Neustadt - HÃ¶dlmayr
+223,Ingolstadt - Werk,Lupfig - AMAG
+224,Ingolstadt - Werk,Jenec - HÃ¶dlmayr
+225,Ingolstadt - Werk,Bremerhaven - BLG
+226,Ingolstadt - Werk,Calden - DP Trading
+227,Ingolstadt - Werk,Darmstadt - R+H
+228,Ingolstadt - Werk,Emden - Werk
+229,Ingolstadt - Werk,Emden - Außenhafen
+230,Ingolstadt - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+231,Ingolstadt - Werk,Glauchau - SAT (Mosolf)
+232,Ingolstadt - Werk,Hamburg - BLG
+233,Ingolstadt - Werk,Hamburg - Unikai
+234,Ingolstadt - Werk,Illingen - Mosolf
+235,Ingolstadt - Werk,Ingolstadt - Werk
+236,Ingolstadt - Werk,Probfeld (Karlskron) - ATP
+237,Ingolstadt - Werk,Kippenheim - Mosolf
+238,Ingolstadt - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+239,Ingolstadt - Werk,Neuseddin - CAT
+240,Ingolstadt - Werk,Nürnberg - Altmann
+241,Ingolstadt - Werk,Osnabrück - CAT
+242,Ingolstadt - Werk,Waldenburg - Audi
+243,Ingolstadt - Werk,Wolnzach - Altmann
+244,Ingolstadt - Werk,Wolfsburg - Werk
+245,Ingolstadt - Werk,Ringsted - Dansk Auto Logik
+246,Ingolstadt - Werk,Vamdrup - Dansk Auto Logik
+247,Ingolstadt - Werk,Barcelona - Autoterminal
+248,Ingolstadt - Werk,Ciempozuelos - Berge Gefco
+249,Ingolstadt - Werk,Santander - Berge
+250,Ingolstadt - Werk,Tarragona
+251,Ingolstadt - Werk,Avrigny - CAT
+252,Ingolstadt - Werk,Ambares-et-Lagrave  - GCA
+253,Ingolstadt - Werk,Corbas (Lyon) - TEA
+254,Ingolstadt - Werk,Lauterbourg - Walon France
+255,Ingolstadt - Werk,Lagermax Lagerplatz Luka 
+256,Ingolstadt - Werk,BudaÃ¶rs - Lagermax
+257,Ingolstadt - Werk,Piadena - Altmann
+258,Ingolstadt - Werk,Verona - Bertani
+259,Ingolstadt - Werk,Howald - Losch
+260,Ingolstadt - Werk,Vlissingen - Kloosterboer
+261,Ingolstadt - Werk,Swarzedz - STS
+262,Ingolstadt - Werk,Curtici - Lagermax
+263,Ingolstadt - Werk,Bratislava - Lagermax
+264,Ingolstadt - Werk,Koper - BLG
+265,Probfeld (Karlskron) - ATP,Eriwan - Slav Motors
+266,Probfeld (Karlskron) - ATP,Minsk - Autohaus AV (Audi)
+267,Probfeld (Karlskron) - ATP,Chisinau - Rumeon
+268,Lübeck - LHG Seelandkai,Hanko - Transfennica
+269,Lübeck (Travemünde) - LHG Skandinavienkai,HELSINKI
+270,Lübeck (Travemünde) - LHG Skandinavienkai,"HAFEN LIPAJA, LETTLAND"
+271,Lehrte (Aligse) - CAT,Hannover - Werk
+272,Neckarsulm - Audi Forum?,Strasswalchen - Lagermax
+273,Neckarsulm - Audi Forum?,Wiener Neustadt - HÃ¶dlmayr
+274,Neckarsulm - Audi Forum?,Erps-Kwerps (Kortenberg) - D`ieteren
+275,Neckarsulm - Audi Forum?,ZeebrÃ¼gge - WWL
+276,Neckarsulm - Audi Forum?,Lupfig - AMAG
+277,Neckarsulm - Audi Forum?,Jenec - HÃ¶dlmayr
+278,Neckarsulm - Audi Forum?,Bremerhaven - BLG
+279,Neckarsulm - Audi Forum?,Calden - DP Trading
+280,Neckarsulm - Audi Forum?,Cuxhaven - Cuxport
+281,Neckarsulm - Audi Forum?,Cuxhaven - BLG
+282,Neckarsulm - Audi Forum?,Darmstadt - R+H
+283,Neckarsulm - Audi Forum?,Emden - Außenhafen
+284,Neckarsulm - Audi Forum?,Emden - Binnenhafen
+285,Neckarsulm - Audi Forum?,Essen - Helf
+286,Neckarsulm - Audi Forum?,Wolfsburg (MLW Fallersleben) - Mosolf
+287,Neckarsulm - Audi Forum?,Glauchau - SAT (Mosolf)
+288,Neckarsulm - Audi Forum?,Hamburg - BLG
+289,Neckarsulm - Audi Forum?,Hamburg - Unikai
+290,Neckarsulm - Audi Forum?,Illingen - Mosolf
+291,Neckarsulm - Audi Forum?,Probfeld (Karlskron) - ATP
+292,Neckarsulm - Audi Forum?,Kassel-Waldau - Formel D
+293,Neckarsulm - Audi Forum?,Kippenheim - Mosolf
+294,Neckarsulm - Audi Forum?,Lübeck (Travemünde) - LHG Skandinavienkai
+295,Neckarsulm - Audi Forum?,Neuseddin - CAT
+296,Neckarsulm - Audi Forum?,Neuss - Autoterminal Neuss
+297,Neckarsulm - Audi Forum?,Nürnberg - Altmann
+298,Neckarsulm - Audi Forum?,Osnabrück - CAT
+299,Neckarsulm - Audi Forum?,Wolnzach - Altmann
+300,Neckarsulm - Audi Forum?,Wolfsburg - Werk
+301,Neckarsulm - Audi Forum?,Ringsted - Dansk Auto Logik
+302,Neckarsulm - Audi Forum?,Vamdrup - Dansk Auto Logik
+303,Neckarsulm - Audi Forum?,Ciempozuelos - Berge Gefco
+304,Neckarsulm - Audi Forum?,Santander - Berge
+305,Neckarsulm - Audi Forum?,Tarragona
+306,Neckarsulm - Audi Forum?,Avrigny - CAT
+307,Neckarsulm - Audi Forum?,Ambares-et-Lagrave  - GCA
+308,Neckarsulm - Audi Forum?,Corbas (Lyon) - TEA
+309,Neckarsulm - Audi Forum?,Lauterbourg - Walon France
+310,Neckarsulm - Audi Forum?,Lagermax Lagerplatz Luka 
+311,Neckarsulm - Audi Forum?,BudaÃ¶rs - Lagermax
+312,Neckarsulm - Audi Forum?,Verona - Bertani
+313,Neckarsulm - Audi Forum?,Howald - Losch
+314,Neckarsulm - Audi Forum?,Leusden - Pon Logistics
+315,Neckarsulm - Audi Forum?,Vlissingen - Kloosterboer
+316,Neckarsulm - Audi Forum?,Swarzedz - STS
+317,Neckarsulm - Audi Forum?,Curtici - Lagermax
+318,Neckarsulm - Audi Forum?,Bratislava - Lagermax
+319,Neckarsulm - Audi Forum?,Koper - BLG
+320,Osnabrück - Werk,Strasswalchen - Lagermax
+321,Osnabrück - Werk,Erps-Kwerps (Kortenberg) - D`ieteren
+322,Osnabrück - Werk,Lupfig - AMAG
+323,Osnabrück - Werk,Jenec - HÃ¶dlmayr
+324,Osnabrück - Werk,Bremerhaven - BLG
+325,Osnabrück - Werk,Darmstadt - R+H
+326,Osnabrück - Werk,Emden - Außenhafen
+327,Osnabrück - Werk,Essen - Helf
+328,Osnabrück - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+329,Osnabrück - Werk,Glauchau - SAT (Mosolf)
+330,Osnabrück - Werk,Ginsheim-Gustavsburg - Frankenbach
+331,Osnabrück - Werk,Hamburg - Unikai
+332,Osnabrück - Werk,Lehrte (Aligse) - CAT
+333,Osnabrück - Werk,Neuseddin - CAT
+334,Osnabrück - Werk,Osnabrück - CAT
+335,Osnabrück - Werk,Rackwitz - SAT (Mosolf)
+336,Osnabrück - Werk,Wolnzach - Altmann
+337,Osnabrück - Werk,Vamdrup - Dansk Auto Logik
+338,Osnabrück - Werk,Tarragona
+339,Osnabrück - Werk,Avrigny - CAT
+340,Osnabrück - Werk,Verona - Bertani
+341,Osnabrück - Werk,Howald - Losch
+342,Osnabrück - Werk,Leusden - Pon Logistics
+343,Osnabrück - Werk,Kassel-Waldau - Formel D
+344,Osnabrück - CAT,Osnabrück - Kundencenter
+345,Dodendorf (Sülzetal) - BLG,Kassel-Waldau - Formel D
+346,Dodendorf (Sülzetal) - BLG,Lehrte (Aligse) - CAT
+347,Dodendorf (Sülzetal) - BLG,Wolfsburg - Werk
+348,Waldenburg - Audi,Neckarsulm - Audi Forum?
+349,Wolfsburg - Werk,Hall in Tirol - GebrÃ¼der Weiss
+350,Wolfsburg - Werk,Strasswalchen - Lagermax
+351,Wolfsburg - Werk,Wiener Neustadt - HÃ¶dlmayr
+352,Wolfsburg - Werk,Erps-Kwerps (Kortenberg) - D`ieteren
+353,Wolfsburg - Werk,ZeebrÃ¼gge - WWL
+354,Wolfsburg - Werk,Lupfig - AMAG
+355,Wolfsburg - Werk,Jenec - HÃ¶dlmayr
+356,Wolfsburg - Werk,Bremerhaven - BLG
+357,Wolfsburg - Werk,Calden - DP Trading
+358,Wolfsburg - Werk,Cuxhaven - BLG
+359,Wolfsburg - Werk,Darmstadt - R+H
+360,Wolfsburg - Werk,Emden - Werk
+361,Wolfsburg - Werk,Emden - Außenhafen
+362,Wolfsburg - Werk,Emden - Binnenhafen
+363,Wolfsburg - Werk,Essen - Helf
+364,Wolfsburg - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+365,Wolfsburg - Werk,Glauchau - SAT (Mosolf)
+366,Wolfsburg - Werk,Ginsheim-Gustavsburg - Frankenbach
+367,Wolfsburg - Werk,Hamburg - BLG
+368,Wolfsburg - Werk,Hamburg - Unikai
+369,Wolfsburg - Werk,Illingen - Mosolf
+370,Wolfsburg - Werk,Kassel-Waldau - Formel D
+371,Wolfsburg - Werk,Kippenheim - Mosolf
+372,Wolfsburg - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+373,Wolfsburg - Werk,Lehrte (Aligse) - CAT
+374,Wolfsburg - Werk,Neuseddin - CAT
+375,Wolfsburg - Werk,Neuss - Autoterminal Neuss
+376,Wolfsburg - Werk,Nürnberg - Altmann
+377,Wolfsburg - Werk,Osnabrück - CAT
+378,Wolfsburg - Werk,Rehden - BTR
+379,Wolfsburg - Werk,Rackwitz - SAT (Mosolf)
+380,Wolfsburg - Werk,Wolnzach - Altmann
+381,Wolfsburg - Werk,Wolfsburg - Werk
+382,Wolfsburg - Werk,Ringsted - Dansk Auto Logik
+383,Wolfsburg - Werk,Vamdrup - Dansk Auto Logik
+384,Wolfsburg - Werk,Tarragona
+385,Wolfsburg - Werk,Avrigny - CAT
+386,Wolfsburg - Werk,Ambares-et-Lagrave  - GCA
+387,Wolfsburg - Werk,Corbas (Lyon) - TEA
+388,Wolfsburg - Werk,Lauterbourg - Walon France
+389,Wolfsburg - Werk,BudaÃ¶rs - Lagermax
+390,Wolfsburg - Werk,Arena Po - Bertani
+391,Wolfsburg - Werk,Piadena - Altmann
+392,Wolfsburg - Werk,Verona - Bertani
+393,Wolfsburg - Werk,Howald - Losch
+394,Wolfsburg - Werk,Leusden - Pon Logistics
+395,Wolfsburg - Werk,Rotterdam - Broekman
+396,Wolfsburg - Werk,Swarzedz - STS
+397,Wolfsburg - Werk,Curtici - Lagermax
+398,Wolfsburg - Werk,Bratislava - Lagermax
+399,Wolfsburg - Werk,Koper - BLG
+400,Zwickau - Werk,Hall in Tirol - GebrÃ¼der Weiss
+401,Zwickau - Werk,Schwertberg - HÃ¶dlmayr
+402,Zwickau - Werk,Strasswalchen - Lagermax
+403,Zwickau - Werk,Wiener Neustadt - HÃ¶dlmayr
+404,Zwickau - Werk,Erps-Kwerps (Kortenberg) - D`ieteren
+405,Zwickau - Werk,ZeebrÃ¼gge - WWL
+406,Zwickau - Werk,Lupfig - AMAG
+407,Zwickau - Werk,Jenec - HÃ¶dlmayr
+408,Zwickau - Werk,Bremerhaven - BLG
+409,Zwickau - Werk,Calden - DP Trading
+410,Zwickau - Werk,Darmstadt - R+H
+411,Zwickau - Werk,Emden - Werk
+412,Zwickau - Werk,Emden - Außenhafen
+413,Zwickau - Werk,Emden - Binnenhafen
+414,Zwickau - Werk,Essen - Helf
+415,Zwickau - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+416,Zwickau - Werk,Faulbach - Roos
+417,Zwickau - Werk,Glauchau - SAT (Mosolf)
+418,Zwickau - Werk,Ginsheim-Gustavsburg - Frankenbach
+419,Zwickau - Werk,Gößnitz - SAT (Mosolf)
+420,Zwickau - Werk,Hamburg - BLG
+421,Zwickau - Werk,Hemau - Aichinger
+422,Zwickau - Werk,Illingen - Mosolf
+423,Zwickau - Werk,Kassel-Waldau - Formel D
+424,Zwickau - Werk,Kippenheim - Mosolf
+425,Zwickau - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+426,Zwickau - Werk,Lehrte (Aligse) - CAT
+427,Zwickau - Werk,Neuseddin - CAT
+428,Zwickau - Werk,Neuss - Autoterminal Neuss
+429,Zwickau - Werk,Nürnberg - Altmann
+430,Zwickau - Werk,Osnabrück - CAT
+431,Zwickau - Werk,Salzgitter - Werk
+432,Zwickau - Werk,Wolnzach - Altmann
+433,Zwickau - Werk,Zwickau - Kunden Service Center
+434,Zwickau - Werk,Ringsted - Dansk Auto Logik
+435,Zwickau - Werk,Vamdrup - Dansk Auto Logik
+436,Zwickau - Werk,Ciempozuelos - Berge Gefco
+437,Zwickau - Werk,Tarragona
+438,Zwickau - Werk,"SPAIN, RACS"
+439,Zwickau - Werk,Ambares-et-Lagrave  - GCA
+440,Zwickau - Werk,Corbas (Lyon) - TEA
+441,Zwickau - Werk,Lauterbourg - Walon France
+442,Zwickau - Werk,Villers-Cotterets - CAT
+443,Zwickau - Werk,Lagermax Lagerplatz Luka 
+444,Zwickau - Werk,BudaÃ¶rs - Lagermax
+445,Zwickau - Werk,Piadena - Altmann
+446,Zwickau - Werk,Verona - Bertani
+447,Zwickau - Werk,Howald - Losch
+448,Zwickau - Werk,Leusden - Pon Logistics
+449,Zwickau - Werk,Rotterdam - Broekman
+450,Zwickau - Werk,Swarzedz - STS
+451,Zwickau - Werk,Curtici - Lagermax
+452,Zwickau - Werk,Bratislava - Lagermax
+453,Zwickau - Werk,Koper - BLG
+454,Zwickau - Werk,
+455,Zwickau - Kunden Service Center,Zwickau - Kunden Service Center
+456,Barcelona - Autoterminal,Emden - Außenhafen
+457,Barcelona - Setram,Emden - Außenhafen
+458,Martorell - Werk,Bremerhaven - BLG
+459,Martorell - Werk,Calden - DP Trading
+460,Martorell - Werk,Darmstadt - R+H
+461,Martorell - Werk,Duisburg - BLG
+462,Martorell - Werk,Faulbach - Roos
+463,Martorell - Werk,Glauchau - SAT (Mosolf)
+464,Martorell - Werk,Hemau - Aichinger
+465,Martorell - Werk,Illingen - Mosolf
+466,Martorell - Werk,Probfeld (Karlskron) - ATP
+467,Martorell - Werk,Kippenheim - Mosolf
+468,Martorell - Werk,Neuss - Autoterminal Neuss
+469,Martorell - Werk,Nürnberg - Altmann
+470,Martorell - Werk,Überherrn - Mosolf
+471,Martorell - Werk,Wolnzach - Altmann
+472,Pamplona (Navarra) - Werk,Calden - DP Trading
+473,Pamplona (Navarra) - Werk,Darmstadt - R+H
+474,Pamplona (Navarra) - Werk,Essen - Helf
+475,Pamplona (Navarra) - Werk,Glauchau - SAT (Mosolf)
+476,Pamplona (Navarra) - Werk,Ginsheim-Gustavsburg - Frankenbach
+477,Pamplona (Navarra) - Werk,Illingen - Mosolf
+478,Pamplona (Navarra) - Werk,Kassel-Waldau - Formel D
+479,Pamplona (Navarra) - Werk,Kippenheim - Mosolf
+480,Pamplona (Navarra) - Werk,Neuseddin - CAT
+481,Pamplona (Navarra) - Werk,Neuss - Autoterminal Neuss
+482,Pamplona (Navarra) - Werk,Nürnberg - Altmann
+483,Pamplona (Navarra) - Werk,Wolnzach - Altmann
+484,Santander - Berge,Emden - Außenhafen
+485,Grimsby - GBA,Emden - Außenhafen
+486,GyÃ¶r - Werk,Bremerhaven - BLG
+487,GyÃ¶r - Werk,Calden - DP Trading
+488,GyÃ¶r - Werk,Cuxhaven - Cuxport
+489,GyÃ¶r - Werk,Darmstadt - R+H
+490,GyÃ¶r - Werk,Emden - Außenhafen
+491,GyÃ¶r - Werk,Emden - Binnenhafen
+492,GyÃ¶r - Werk,Essen - Helf
+493,GyÃ¶r - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+494,GyÃ¶r - Werk,Glauchau - SAT (Mosolf)
+495,GyÃ¶r - Werk,Gößnitz - SAT (Mosolf)
+496,GyÃ¶r - Werk,Hamburg - BLG
+497,GyÃ¶r - Werk,Hamburg - Unikai
+498,GyÃ¶r - Werk,Illingen - Mosolf
+499,GyÃ¶r - Werk,Probfeld (Karlskron) - ATP
+500,GyÃ¶r - Werk,Kippenheim - Mosolf
+501,GyÃ¶r - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+502,GyÃ¶r - Werk,Neuseddin - CAT
+503,GyÃ¶r - Werk,Neuss - Autoterminal Neuss
+504,GyÃ¶r - Werk,Nürnberg - Altmann
+505,GyÃ¶r - Werk,Osnabrück - CAT
+506,GyÃ¶r - Werk,Waldenburg - Audi
+507,GyÃ¶r - Werk,Wolnzach - Altmann
+508,HAFEN VERACRUZ,Emden - Außenhafen
+509,Swarzedz - STS,Behörden und Sondertransporte Volkswagen Werk Wolfsburg
+510,Swarzedz - STS,Bremerhaven - BLG
+511,Swarzedz - STS,Calden - DP Trading
+512,Swarzedz - STS,Darmstadt - R+H
+513,Swarzedz - STS,Emden - Werk
+514,Swarzedz - STS,Emden - Außenhafen
+515,Swarzedz - STS,Essen - Helf
+516,Swarzedz - STS,Wolfsburg (MLW Fallersleben) - Mosolf
+517,Swarzedz - STS,Glauchau - SAT (Mosolf)
+518,Swarzedz - STS,Ginsheim-Gustavsburg - Frankenbach
+519,Swarzedz - STS,Hamburg - BLG
+520,Swarzedz - STS,Hamburg - Unikai
+521,Swarzedz - STS,Illingen - Mosolf
+522,Swarzedz - STS,Kassel-Waldau - Formel D
+523,Swarzedz - STS,Kippenheim - Mosolf
+524,Swarzedz - STS,Ketzin - Mosolf
+525,Swarzedz - STS,Lübeck (Travemünde) - LHG Skandinavienkai
+526,Swarzedz - STS,Lehrte (Aligse) - CAT
+527,Swarzedz - STS,Neuseddin - CAT
+528,Swarzedz - STS,Neuss - Autoterminal Neuss
+529,Swarzedz - STS,Nürnberg - Altmann
+530,Swarzedz - STS,Osnabrück - Werk
+531,Swarzedz - STS,Osnabrück - CAT
+532,Swarzedz - STS,Rackwitz - SAT (Mosolf)
+533,Swarzedz - STS,Wolnzach - Altmann
+534,Swarzedz - STS,Wolfsburg - Werk
+535,Wrzesnia - Werk,Bremerhaven - BLG
+536,Wrzesnia - Werk,Calden - DP Trading
+537,Wrzesnia - Werk,Darmstadt - R+H
+538,Wrzesnia - Werk,Emden - Außenhafen
+539,Wrzesnia - Werk,Emden - Binnenhafen
+540,Wrzesnia - Werk,Essen - Helf
+541,Wrzesnia - Werk,Wolfsburg (MLW Fallersleben) - Mosolf
+542,Wrzesnia - Werk,Glauchau - SAT (Mosolf)
+543,Wrzesnia - Werk,Ginsheim-Gustavsburg - Frankenbach
+544,Wrzesnia - Werk,Hamburg - BLG
+545,Wrzesnia - Werk,Illingen - Mosolf
+546,Wrzesnia - Werk,Kippenheim - Mosolf
+547,Wrzesnia - Werk,Ketzin - Mosolf
+548,Wrzesnia - Werk,Lübeck (Travemünde) - LHG Skandinavienkai
+549,Wrzesnia - Werk,Lehrte (Aligse) - CAT
+550,Wrzesnia - Werk,Neuseddin - CAT
+551,Wrzesnia - Werk,Neckarsulm - Audi Forum?
+552,Wrzesnia - Werk,Neuss - Autoterminal Neuss
+553,Wrzesnia - Werk,Nürnberg - Altmann
+554,Wrzesnia - Werk,Osnabrück - CAT
+555,Wrzesnia - Werk,Rehden - BTR
+556,Wrzesnia - Werk,Wolnzach - Altmann
+557,Wrzesnia - Werk,Wolfsburg - Werk
+558,Setubal - Autoeuropa,Emden - Außenhafen
+559,Bratislava - Werk,Neuseddin - CAT
+560,Bratislava - Werk,Rackwitz - SAT (Mosolf)
+561,Bratislava - Werk,Dodendorf (Sülzetal) - BLG
+562,DURBAN,Emden - Außenhafen
+563,GQEBERHA (EHEMALS PORT ELIZABE,Emden - Außenhafen
